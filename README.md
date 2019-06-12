@@ -1,8 +1,14 @@
 # Architecture By Me (@mingrammer)
 
-A store of architectures made by me (@mingrammer). 
+A collection of system architectures I've designed ever (@mingrammer).
 
-*Note: These are not best practices, just one of possible architectures for corresponding apps or systems*
+*Note: These may not best practices, just one of possible architectures for corresponding systems*
+
+<br>
+
+## Game server data migration (experimental)
+
+![game server data migration](architectures/game-server-data-migration-architecture.png)
 
 <br>
 
@@ -28,6 +34,6 @@ A store of architectures made by me (@mingrammer).
 
 <br>
 
-## Video streaming based web service
+## Video streaming web service
 
 ![video streaming based web service](architectures/video-streaming-based-web-service.png)
